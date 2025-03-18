@@ -1,1 +1,6 @@
-I'll put our notes here.
+# 20250317 - Java AWS
+
+
+
+### Angular Mini Project
+[Project Checklist](./project-checklist.md)
