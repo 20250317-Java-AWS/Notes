@@ -19,8 +19,8 @@ This angular SPA consumes the PokeAPI (https://pokeapi.co/) allowing users to bu
  - SPA Route Navigation - when clicking on a pokemon in the team view, route to the individual detail view. There should also be a link to route back to the team view.
  - Consume a RESTful API - fetch up-to-date information on demand from the pokeAPI
  - User Interaction - allow users to select the pokemon, either from a list or by typing into a text field
- - Multiple Components - There are at minimum 7 components here:
+ - Multiple Components - There are at minimum 2 components here:
    - team view
-   - team member details 1-6
+   - team member details
 
 If you wanted to do a different project, take this example as an indication of the scope you should be aiming for. 
