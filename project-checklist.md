@@ -24,5 +24,9 @@ This angular SPA consumes the PokeAPI (https://pokeapi.co/) allowing users to bu
    - team member details
 
 
-    
+
+
+
+
+  
 If you wanted to do a different project, take this example as an indication of the scope you should be aiming for. 
