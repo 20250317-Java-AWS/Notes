@@ -6,10 +6,10 @@
 ### Demos
  - [Angular demo 1](./Demos/Angular-Demo-1/angular-demo-1)
  - [Angular demo 2](./Demos/angular-demo-2)
- - [Angular demo 2](./Demos/angular-demo-3)
- - [Angular demo 2](./Demos/angular-demo-modules)
- - [Angular demo 2](./Demos/angular-demo-signals)
- - [Angular demo 2](./Demos/angular-temp-converter)
+ - [Angular demo 3](./Demos/angular-demo-3)
+ - [Angular demo modules](./Demos/angular-demo-modules)
+ - [Angular demo signals](./Demos/angular-demo-signals)
+ - [Angular temp converter demo](./Demos/angular-temp-converter)
 
 ### Kyle's Angular 17 Example Projects
  - [Angular Hello World](./Demos/Kyle's%20Angular%20Examples/ANG-GCE-HELLO)
