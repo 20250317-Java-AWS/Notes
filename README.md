@@ -5,8 +5,8 @@
 
 ### Demos
  - [Angular demo 1](./Demos/Angular-Demo-1/angular-demo-1)
- - [Angular demo 2](./Demos/Angular-Demo-2)
- - [Angular demo 2](./Demos/Angular-Demo-3)
- - [Angular demo 2](./Demos/Angular-Demo-modules)
- - [Angular demo 2](./Demos/Angular-Demo-signals)
- - [Angular demo 2](./Demos/Angular-Demo-converter)
+ - [Angular demo 2](./Demos/angular-demo-2)
+ - [Angular demo 2](./Demos/angular-demo-3)
+ - [Angular demo 2](./Demos/angular-demo-modules)
+ - [Angular demo 2](./Demos/angular-demo-signals)
+ - [Angular demo 2](./Demos/angular-demo-converter)
