@@ -8,7 +8,7 @@ import { ChildComponent } from '../child/child.component';
   styleUrl: './parent.component.css'
 })
 export class ParentComponent {
-  name: WritableSignal<string> = signal("")
+  name: WritableSignal<string> = signal("Default")
 
   changeName(name: string) {
     this.name.set(name);

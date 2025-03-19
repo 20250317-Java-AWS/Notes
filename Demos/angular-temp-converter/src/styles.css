@@ -1,0 +1,14 @@
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.flexItem {
+    border: 2px;
+    border-style: solid;
+    margin: 30px 20px;
+    padding: 25px;
+    justify-content: center; 
+}
