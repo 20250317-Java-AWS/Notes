@@ -9,4 +9,13 @@
  - [Angular demo 2](./Demos/angular-demo-3)
  - [Angular demo 2](./Demos/angular-demo-modules)
  - [Angular demo 2](./Demos/angular-demo-signals)
- - [Angular demo 2](./Demos/angular-demo-converter)
+ - [Angular demo 2](./Demos/angular-temp-converter)
+
+### Kyle's Angular 17 Example Projects
+ - [Angular Hello World](./Demos/Kyle's%20Angular%20Examples/ANG-GCE-HELLO)
+ - [Directives](./Demos/Kyle's%20Angular%20Examples/ANG-GCE-DIRECTIVES)
+ - [Modules](./Demos/Kyle's%20Angular%20Examples/ANG-GCE-MODULES)
+ - [Data Binding](./Demos/Kyle's%20Angular%20Examples/ANG-GCE-DATABINDING)
+ - [Services](./Demos/Kyle's%20Angular%20Examples/ANG-GCE-SERVICES)
+ - [Routing](./Demos/Kyle's%20Angular%20Examples/ANG-GCE-ROUTING)
+
