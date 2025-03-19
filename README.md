@@ -1,7 +1,7 @@
 # 20250317 - Java AWS
 
 ### Angular Mini Project
-[Project Checklist](./project-checklist.md)
+ - [Project Checklist](./project-checklist.md)
 
 ### Demos
  - [Angular demo 1](./Demos/Angular-Demo-1/angular-demo-1)
