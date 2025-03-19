@@ -1,3 +1,4 @@
-{{this.name}}
+<h1>Parent Component!</h1>
+name: {{this.name}}
 <hr>
-<app-child></app-child>
+<app-child [name]="this.name" (nameEvent)="changeName($event)"></app-child>

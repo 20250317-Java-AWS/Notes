@@ -9,5 +9,8 @@ import { ChildComponent } from "../child/child.component";
 })
 export class ParentComponent {
   name: string = "Justin"
-  
+
+  changeName(name: string) {
+    this.name = name;
+  }
 }
