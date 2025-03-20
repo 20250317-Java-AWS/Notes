@@ -11,9 +11,32 @@ export class PokeApiService{
     this.client = client;
   }
 
-  getData(): Observable<object> {
-    return this.client.get('https://pokeapi.co/api/v2/pokemon/ditto')
+  getPokemonResults(): Observable<PokeResults> {
+    return this.client.get<PokeResults>('https://pokeapi.co/api/v2/pokemon/')
   }
 
+  getPokemon(name: string): Observable<Pokemon> {
+    return this.client.get<Pokemon>('https://pokeapi.co/api/v2/pokemon/' + name)
+  }
+
+
+
   
+}
+
+export class PokeResults {
+  results: Pokemon[] = []
+}
+
+export class Pokemon {
+  id: number = 0
+  name: string = ""
+  height: number = 0
+  stats: Stat[] = []
+  url: string = ""
+}
+
+export class Stat {
+  base_stat: string = ""
+  stat: {name: string} = {name: ""}
 }
