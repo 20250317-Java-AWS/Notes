@@ -5,22 +5,6 @@
  - In-memory - caching solution, data stored in memory, faster but volatile
  - graph databases - excel at storing data with complex relationships
 
-### Relational Database
- - data is stored according to a schema, well regimented, arranged into rows and columns.
-
-
-
-### RDS
-Relational Database Service
-
-### DynamoDB
-Amazon's NoSQL database service
-
-### AWS Elasticache
-Fully managed in-memory data store and cache
-
-### Amazon MemoryDB for Redis
-highly scalable durable in-memory database
 
 ### Amazon Neptune
 graph database
@@ -44,6 +28,14 @@ Use cases:
 
 ### SCT
 AWS Schema Conversion Tool - helps convert schema between different databases
+
+
+### RDS
+Relational Database Service - SQL database running on an EC2, software as a service
+
+
+### AWS Elasticache
+Fully managed in-memory data store and cache
 
 
 ### DynamoDB
