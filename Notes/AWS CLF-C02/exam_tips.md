@@ -95,3 +95,41 @@ know that storage gateway is cost effective, secure, and offers seamless integra
 
 AWS Backup is automated and centralized, integrates with AWS services to offer backups for disaster recovery
 AWS backup is secure and complies with data regulations
+
+Know what a CDN is, especially AWS CloudFront
+Know what an edge location is
+know that cloud front integrates with other AWS services, and is well suited for streaming and e-commerce
+
+Global Accelerator directs traffic through AWS' high speed private network. Great for global reach, traffic spikes, and multi-region applications
+Remember it has built in DDoS protection and automatic failover
+understand how it integrtes with other AWS services
+
+VPCs allow us to logically isolate a section of the AWS cloud. Creates a virtual network for AWS services.
+Understand the roles of subnets, route tables, access control lists, and gateways.
+know the difference between public and private subnets
+know what security groups are, as well as NACLs and their differences
+
+
+DNS - translate web addresses to IP addresses - not an amazon service
+Route53 is the AWS DNS, and has extra features like geolocation routing, latency based routing, health checking, failover
+Route53 can offer a private DNS within VPC
+not just a DNS, but a robust global traffic management service
+
+
+DirectConnect provides a dedicated private connection to AWS, ideal for large data transfers and sensitive data. Prefeable for heavy consistent data transfer requirements.
+Two types of VPN: site-to-site for connecting entire networks, client vpn used for individual access. Useful for secure remote connectivity at lower cost
+
+Know the difference between the database types: relational, nosql, in-memory, graph
+Know the AWS services for these database types: RDS, dynamodb, memorydb, elasticache, neptune
+
+
+DMS is for migrating databases
+SCT convcerts schemas
+Understand when and why we might need to migrate data
+
+
+DynamoDB is a NoSQL service offering flexible, low-latency, high performance data storage
+Scalable, high performance, secure, reliable (like basically everything in the AWS catalog)
+
+understand that memoryDB is fast, and fully compatible with Redis data and APIs
+Know that memorydb replicates data across multiple AZs
