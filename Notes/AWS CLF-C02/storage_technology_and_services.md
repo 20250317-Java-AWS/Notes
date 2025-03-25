@@ -93,6 +93,7 @@ Backup solution for AWS data. Stores backups for services:
  - EFS
  - FSx
  - Storage Gateway
+
 features include:
  - Centralized backup management - simplifies managing backups and recovery
  - automated backups
