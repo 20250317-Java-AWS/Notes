@@ -1,5 +1,8 @@
 # 20250317 - Java AWS
 
+### AWS Notes - CLF-C02 Prep
+ - [AWS Notes Index](./Notes/AWS CLF-C02/index.md)
+
 ### Angular Mini Project
  - [Project Checklist](./project-checklist.md)
 
