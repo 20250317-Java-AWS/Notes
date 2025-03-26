@@ -1,6 +1,7 @@
 # Storage Technology & Services
 ## EC2 Storage
  - EBS - elastic block storage
+    - Single attach - only accessible from one device at a time
     - Well suited for EC2
     - Highly available - decoupled from instance - data is safe even if instance crashes
     - data is replicated within AZ
@@ -9,6 +10,7 @@
     - Use cases: hosting databases, data warehousing, big data
     - encrypted - at rest and in transit
   - EFS - Elastic File System
+    - multi attach, accessible from multiple devices at once.
     - Fully managed - remove complexity of deployment and maintenance
     - scaleable - expands on the fly without downtime
     - concurrent access - accessed from multiple services at once
