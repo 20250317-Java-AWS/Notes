@@ -19,6 +19,10 @@ From there it's just practice exams and study. I'll
  - [Storage Technology & Services](./storage_technology_and_services.md)
  - [Content Delivery, Networking Technology & Services](./content_delivery_and_networking_technology_and_services.md)
  - [Database Technology & Services](./database_technology_and_services.md)
+#### Day 3
+ - [Development, Messaging, and Deployment Technology and Services](./development_messagine_deployment.md)
+ - [Migration and Transfer Technology and Services](./migration_and_transfer.md)
+ - [AI, MAchine Learning, Analytics Technology and Services](./AI_machine_learning_analytics.md)
 #### Misc
  - [Other Material](./other_material.md)
  - [Exam Tips](./exam_tips.md)
