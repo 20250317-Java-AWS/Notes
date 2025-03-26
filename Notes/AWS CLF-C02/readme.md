@@ -1,8 +1,8 @@
 ## AWS CLF-C02 Prep Notes
 
-I plan to spend about 3 hours per day on courseware, and will build up a review to conduct at ~3:00 PM 
-~10:00 AM - ~1:00 PM - consuming courseware
-~3:00 PM - 4:00 PM - conducting group review
+I plan to spend about 3 hours per day on courseware, and will build up a review to conduct at ~3:00 PM   
+~10:00 AM - ~1:00 PM - consuming courseware  
+~3:00 PM - 4:00 PM - conducting group review  
  - Monday - late start - 2 hours on Cloud Foundations and Compute
  - Tuesday - 3 hours on Storage, Networking, and Databases
  - Wednesday - ~3 hours on Deployment, Migration, and AI
