@@ -37,11 +37,12 @@ CodePipeline puts those phases together and passes artifacts between the service
 
 
 ## Understanding CodeArtifact
+<pre>
 CodeArtifact is an artifact repository, like maven, node NPM, or python PIP
 CodeArtifact supports open-source libraries, and in-house software packages
 "Artifacts" are basically any files produced or consumed or supplied by automated software systems
 packages in AWS CodeArtifact are "approved", that is they're vetted and tested for quality and safety
-
+</pre>
 ## Decoupling Application Components
 Tight coupling means components in the application depend on eachother to a great degree. In general looser coupling is better.
 Monolithic (traditional) architectures are often more tightly coupled. More modern "distributed architectures", "service oriented architecture", or "microservices" are more losely coupled.
