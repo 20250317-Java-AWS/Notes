@@ -27,3 +27,5 @@ From there it's just practice exams and study. I'll
  - [Other Material](./other_material.md)
  - [Exam Tips](./exam_tips.md) *I'm no longer keeping the exam tips in a separate notes file, I'll eventually combine these back into the rest of the notes.*
  - [Exam Simulation](https://app.pluralsight.com/lti-integration/redirect/24ea1482-c9f9-4515-a658-3553ba27e551?originUrl=https%3A%2F%2Fapp.pluralsight.com%2Fsearch%2F)
+ - Quizlet Flashcard Banks
+   - [By kevinn_christian, 1 year ago - 147 flashcards](https://quizlet.com/847399565/aws-certified-cloud-practitioner-clf-c02-flash-cards/)
