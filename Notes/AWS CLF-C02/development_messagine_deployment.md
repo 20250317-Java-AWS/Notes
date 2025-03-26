@@ -108,3 +108,9 @@ CodePipeline puts those phases together and passes artifacts between the service
  - Supports programming languages like Java, .NET, PHP, Node, Python, Ruby, and Go.
  - Supports technologies like Tomcat, IIS, Nginx, and Docker
  - Also handles updates, monitoring, and health checking
+
+## X-Ray
+ - Monitors and health of distributed applications
+ - service map provides an end-to-end view of requests as they travel through the application
+ - This can heklp troubleshoot connectivity and performance issues in the application
+
