@@ -64,7 +64,7 @@
   - FSx - File Server
     - Specialty storage, designed to be a fully managed windows file system built on Windows Server OS
     - Supports windows workloads, workloads requiring native windows features
-  - Elastic Disaster Recovery
+  - Elastic Disaster Recovery - Backing up application state and creating replacement instances if anything goes wrong
     - minimize downtime and data loss, ensuring quick recovery, low cost.
     - Pay only for the servers getting backed up - COST EFFECTIVE
     - Maintain "business continuity" (no inturruption, no data loss)
@@ -85,7 +85,7 @@ types:
  - Tape gateway - for archiving data, presumably on tape drives
  - FSx file gateway - extend on-prem file systems to FSX (basically windows network drive)
 
-## AWS Backup
+## AWS Backup - Backing up data
 Backup solution for AWS data. Stores backups for services:
  - ECC instances
  - EBS volumes
