@@ -51,7 +51,6 @@
 - S3 Storage Classes - different places to store data, different parameters and costs. https://aws.amazon.com/s3/storage-classes/
   - Standard - high throughput, low latency, baseline default
   - Intelligent Tiering - automatically moves data betyween two storage strategies - designed for savings without performance impact
-    - What are the two tiers, the two strategies?
   - Standard Infrequent Access - designed for data that is infrequently accessed, but must still be rapidly accessible
     - there is a fee for retreival, long term storage is low cost, only pay when you access the file
   - One Zone Infrequent Access - special version of the stnadard IA above, but is only stored in one AZ, not global.
