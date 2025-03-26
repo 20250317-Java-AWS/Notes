@@ -1,5 +1,17 @@
 ## AWS CLF-C02 Prep Notes
 
+I plan to spend about 3 hours per day on courseware, and will build up a review to conduct at ~3:00 PM 
+~10:00 AM - ~1:00 PM - consuming courseware
+~3:00 PM - 4:00 PM - conducting group review
+ - Monday - late start - 2 hours on Cloud Foundations and Compute
+ - Tuesday - 3 hours on Storage, Networking, and Databases
+ - Wednesday - ~3 hours on Deployment, Migration, and AI
+ - Thursday - ~3 hours finishing Deployment, Migration, and AI, and starting on Monitoring, Security, and Pricing
+ - Friday ~3 hours finishing Monitoring, Security, and Pricing
+
+Next week we will start reviewing with practice exams. Monday will start with Exam Preparation, we'll look at the question breakdowns together.
+From there it's just practice exams and study. I'll 
+
 #### Day 1
  - [Day 1 Part 1 - Foundations](./Foundations.md)
  - [Day 1 Part 2 - Compute Technology & Services](./compute_technology_and_services.md)
@@ -10,3 +22,4 @@
 #### Misc
  - [Other Material](./other_material.md)
  - [Exam Tips](./exam_tips.md)
+ - [Exam Simulation](https://app.pluralsight.com/lti-integration/redirect/24ea1482-c9f9-4515-a658-3553ba27e551?originUrl=https%3A%2F%2Fapp.pluralsight.com%2Fsearch%2F)
