@@ -65,11 +65,11 @@ messages are processed asynchronously, helping decouple the systems communicatin
 messages in standard SQS queues are guranteed to be consumed at least once
 this kind of decoupling is great for distributed architectures, and horizontal scaling
 
-## Standard vs FIFO SQS queues
+### Standard vs FIFO SQS queues
 standard is the default, and gurantees a message is "delivered" or "consumed" at least once. It won;t exit the queue until something consumes it. "Best effort ordering" generally messages are delivered in the same order as sent, but not really guranteed. Due to asynchronousness, messages might get delivered out of order, or sometimes one message could be delivered more than once
 FIFO - first in first out - the ordering is "strictly preserved". Messages will never be delivered out of order, and will only be delivered exactly once each. No duplicates. - great for financial transactions
 
-## Short Polling vs Long Polling
+### Short Polling vs Long Polling
 Short polling retuirns a response immediately even if the queue is empty, can result in many empty responses (whcih are not free)
 Long polling will wait for a message before responding, or eventually time out. Fewer empty responses, saving money. 
 Long polling is generally more cost effective.
@@ -93,7 +93,7 @@ Build and run serverless applications as a series of steps whcih execute in orde
 Output from one step can be input to the next, this is like a pipeline of behaviors.
 Step functions can help visualize out workflow
 
-Deploying IaC with CloudFormation
+## Deploying with CloudFormation
 IaC - Infrastructure as Code - files containing configurations which are kept with source files and tell an automated system how to behave
 CloudFormation is the AWS IaC provisioning service
 CloudFormation templates (IaC files) can be defined as YAML or JSON, then CloudFormation reads the template and acts accordingly making API calls to create and provision resources as defined in the template.
