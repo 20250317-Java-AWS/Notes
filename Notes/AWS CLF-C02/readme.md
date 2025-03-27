@@ -29,5 +29,5 @@ From there it's just practice exams and study.
  - [Exam Simulation](https://app.pluralsight.com/lti-integration/redirect/24ea1482-c9f9-4515-a658-3553ba27e551?originUrl=https%3A%2F%2Fapp.pluralsight.com%2Fsearch%2F)
  - [Git Repo With 25 Practice Exams](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/exams.md)
  - Quizlet Flashcard Banks
-  - [By kevinn_christian, 1 year ago - 147 flashcards](https://quizlet.com/847399565/aws-certified-cloud-practitioner-clf-c02-flash-cards/)
+   - [By kevinn_christian, 1 year ago - 147 flashcards](https://quizlet.com/847399565/aws-certified-cloud-practitioner-clf-c02-flash-cards/)
  - [Terminology](./terminology.md)
