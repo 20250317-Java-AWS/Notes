@@ -1,4 +1,4 @@
-## AWS CLF-C02 Prep Notes
+# AWS CLF-C02 Prep Notes
 
 I plan to spend about 3 hours per day on courseware, and will build up a review to conduct at ~3:00 PM   
 ~10:00 AM - ~1:00 PM - consuming courseware  
@@ -12,6 +12,7 @@ I plan to spend about 3 hours per day on courseware, and will build up a review 
 Next week we will start reviewing with practice exams. Monday will start with Exam Preparation, we'll look at the question breakdowns together.
 From there it's just practice exams and study.
 
+## [Pluralsight Courseware](https://app.pluralsight.com/paths/skills/aws-certified-cloud-practitioner-clf-c02)
 #### Day 1
  - [Day 1 Part 1 - Foundations](./Foundations.md)
  - [Day 1 Part 2 - Compute Technology & Services](./compute_technology_and_services.md)
