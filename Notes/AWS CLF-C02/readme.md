@@ -23,6 +23,10 @@ From there it's just practice exams and study.
  - [Development, Messaging, and Deployment Technology and Services](./development_messagine_deployment.md)
  - [Migration and Transfer Technology and Services](./migration_and_transfer.md)
  - [AI, MAchine Learning, Analytics Technology and Services](./AI_machine_learning_analytics.md)
+#### Day 4
+ - [Auditing, Monitoring, Logging, and Additional Technology and Services](./auditing_monitoring_logging.md)
+ - [Security, Compliance, and Governance](./security_compliance_governance.md)
+ - [Pricing, Billing, and Support](./pricing_billing_support.md)
 #### Misc
  - [Other Material](./other_material.md)
  - [Exam Tips](./exam_tips.md) *I'm no longer keeping the exam tips in a separate notes file, I'll eventually combine these back into the rest of the notes.*
