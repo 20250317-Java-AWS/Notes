@@ -1,5 +1,5 @@
 # Shared Responsibility Model
-When we use amazon resources we must take responsibility for some portion of security and management. What is our responsibility and what is amazon's?\
+When we use amazon resources we must take responsibility for some portion of security and management. What is our responsibility and what is amazon's?
  - You are responsible for security "in" the cloud
  - Amazon is responsibile for security "of" the cloud.
 Amazon will make sure their accounts, systems, hardware, and infrastructure are safe and secure. We need to make sure our data, and accounts are secure, and that we adhere to best practices.
@@ -30,5 +30,5 @@ A good example: RDS vs. hosting a database on EC2. EC2 is PaaS, while RDS is Saa
  - securing connections between services we use
  - encrypting data in transit and at rest
 
-# Principle of Least Privilege
-This basically says that actors (entities which take actions, users or automated systems) should onmly be given the permissions to do what they need to do, and nothing else. This way, if their account is comprimised or they decide to act badly the risk is as minimized as possible.
+## Shared Responsibilities
+Sometimes some responsibilities are shared, such as with security and comppliance
