@@ -10,7 +10,7 @@ I plan to spend about 3 hours per day on courseware, and will build up a review 
  - Friday ~3 hours finishing Monitoring, Security, and Pricing
 
 Next week we will start reviewing with practice exams. Monday will start with Exam Preparation, we'll look at the question breakdowns together.
-From there it's just practice exams and study. I'll 
+From there it's just practice exams and study.
 
 #### Day 1
  - [Day 1 Part 1 - Foundations](./Foundations.md)
