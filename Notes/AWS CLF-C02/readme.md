@@ -13,18 +13,18 @@ Next week we will start reviewing with practice exams. Monday will start with Ex
 From there it's just practice exams and study.
 
 ## [Pluralsight Courseware](https://app.pluralsight.com/paths/skills/aws-certified-cloud-practitioner-clf-c02)
-#### Day 1
+#### Domain 1
  - [Day 1 Part 1 - Foundations](./Foundations.md)
  - [Day 1 Part 2 - Compute Technology & Services](./compute_technology_and_services.md)
-#### Day 2
+#### Domain 2
  - [Storage Technology & Services](./storage_technology_and_services.md)
  - [Content Delivery, Networking Technology & Services](./content_delivery_and_networking_technology_and_services.md)
  - [Database Technology & Services](./database_technology_and_services.md)
-#### Day 3
+#### Domain 3
  - [Development, Messaging, and Deployment Technology and Services](./development_messagine_deployment.md)
  - [Migration and Transfer Technology and Services](./migration_and_transfer.md)
  - [AI, MAchine Learning, Analytics Technology and Services](./AI_machine_learning_analytics.md)
-#### Day 4
+#### Domain 4
  - [Auditing, Monitoring, Logging, and Additional Technology and Services](./auditing_monitoring_logging.md)
  - [Security, Compliance, and Governance](./security_compliance_governance.md)
  - [Pricing, Billing, and Support](./pricing_billing_support.md)
