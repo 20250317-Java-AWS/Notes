@@ -27,6 +27,10 @@ From there it's just practice exams and study.
  - [Auditing, Monitoring, Logging, and Additional Technology and Services](./auditing_monitoring_logging.md)
  - [Security, Compliance, and Governance](./security_compliance_governance.md)
  - [Pricing, Billing, and Support](./pricing_billing_support.md)
+#### Models & Frameworks
+ - [Cloud Adoption Framework](./cloud_adoption_framework.md)
+ - [Well-Architected Framework](./well_architected_framework.md)
+ - [Shared Responsibility Model](./shared_responsibility_model.md)
 #### Misc
  - [Other Material](./other_material.md)
  - [Exam Tips](./exam_tips.md) *I'm no longer keeping the exam tips in a separate notes file, I'll eventually combine these back into the rest of the notes.*
