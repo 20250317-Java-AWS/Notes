@@ -40,3 +40,5 @@ From there it's just practice exams and study.
  - Quizlet Flashcard Banks
    - [By kevinn_christian, 1 year ago - 147 flashcards](https://quizlet.com/847399565/aws-certified-cloud-practitioner-clf-c02-flash-cards/)
  - [Terminology](./terminology.md)
+ - Exam Simulation Notes
+   - [Friday 3-28-25](.//practice-test-3-28.md)
