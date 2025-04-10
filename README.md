@@ -1,5 +1,8 @@
 # 20250317 - Java AWS
 
+### Capstone Project Info
+ - [Description and Rubric](./RevShop%20Project%20Rubric.pdf)
+
 ### AWS Notes - CLF-C02 Prep
  - [AWS Notes Index](./Notes/AWS%20CLF-C02/readme.md)
 
